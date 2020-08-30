@@ -2,7 +2,7 @@
   "name": "react-demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shefalibisht00/github.io/ReactRepository",
+  "homepage": "http://shefalibisht00.github.io/React-Repository",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
