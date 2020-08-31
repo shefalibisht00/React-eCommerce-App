@@ -5,7 +5,7 @@
   letter-spacing: 0.5px;
   line-height: 50px;
   padding: 0 35px 0 35px;
-  font-size: 15px;
+  font-size: 12px;
   background-color: rgb(33, 109, 160);
   color: white;
   text-transform: uppercase;
@@ -13,6 +13,10 @@
   font-weight: bolder;
   border: none;
   cursor: pointer;
+
+  .checkout-button {
+    background-color: #9ac288;
+  }
 
   &:hover {
     background-color:  #9ac288;
@@ -30,3 +34,4 @@
     }
   }
 }
+
